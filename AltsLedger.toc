@@ -1,0 +1,17 @@
+## Interface: 120007
+## Title: AltsLedger
+## Notes: Cross-character overview of your alts: item level, gold, Warband Bank, Mythic+ rating and Great Vault progress.
+## Author: gianl
+## Version: @project-version@
+## IconTexture: Interface\Icons\INV_Misc_Coin_01
+## SavedVariables: AltsLedgerDB
+## X-License: MIT
+## X-Curse-Project-ID:
+## X-Wago-ID:
+
+Core.lua
+DataCollector.lua
+WarbandBank.lua
+MythicPlus.lua
+AltsFrame.lua
+MinimapButton.lua

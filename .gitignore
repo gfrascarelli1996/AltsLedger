@@ -1,0 +1,9 @@
+.release/
+.dist/
+*.zip
+*.bak
+*.swp
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
