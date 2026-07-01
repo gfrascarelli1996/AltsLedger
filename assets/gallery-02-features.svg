@@ -63,9 +63,9 @@
       <rect x="3" y="4" width="14" height="34" fill="url(#activeGlow2)"/>
       <circle cx="34" cy="21" r="11" fill="#241030" stroke="#a330c9" stroke-width="2"/>
       <text x="34" y="26" text-anchor="middle" font-size="12" font-weight="700" fill="#a330c9">DH</text>
-      <text x="54" y="18" font-size="14" font-weight="700" fill="#a330c9">Thalerian</text>
+      <text x="54" y="18" font-size="14" font-weight="700" fill="#a330c9">Player 1</text>
       <text x="132" y="18" font-size="11" font-weight="700" fill="#ffd166">[active]</text>
-      <text x="54" y="33" font-size="10" fill="#7d7d85">Pozzo dell'Eternità</text>
+      <text x="54" y="33" font-size="10" fill="#7d7d85">Realm 1</text>
       <text x="340" y="26" text-anchor="middle" font-size="13" fill="#fff">90</text>
       <text x="400" y="26" text-anchor="middle" font-size="13" fill="#fff">651.7</text>
       <g transform="translate(510 26)" text-anchor="end" font-size="13" fill="#fff">
@@ -99,8 +99,8 @@
       <rect x="0" y="4" width="3" height="34" fill="#c69b6d"/>
       <circle cx="34" cy="21" r="11" fill="#1a1310" stroke="#c69b6d" stroke-width="2"/>
       <text x="34" y="26" text-anchor="middle" font-size="12" font-weight="700" fill="#c69b6d">W</text>
-      <text x="54" y="18" font-size="14" font-weight="700" fill="#c69b6d">Elmryon</text>
-      <text x="54" y="33" font-size="10" fill="#7d7d85">Pozzo dell'Eternità</text>
+      <text x="54" y="18" font-size="14" font-weight="700" fill="#c69b6d">Player 2</text>
+      <text x="54" y="33" font-size="10" fill="#7d7d85">Realm 1</text>
       <text x="340" y="26" text-anchor="middle" font-size="13" fill="#fff">90</text>
       <text x="400" y="26" text-anchor="middle" font-size="13" fill="#fff">638.2</text>
       <g transform="translate(510 26)" text-anchor="end" font-size="13" fill="#fff">
@@ -133,8 +133,8 @@
       <rect x="0" y="4" width="3" height="34" fill="#f48cba"/>
       <circle cx="34" cy="21" r="11" fill="#2a1220" stroke="#f48cba" stroke-width="2"/>
       <text x="34" y="26" text-anchor="middle" font-size="12" font-weight="700" fill="#f48cba">P</text>
-      <text x="54" y="18" font-size="14" font-weight="700" fill="#f48cba">Karthos</text>
-      <text x="54" y="33" font-size="10" fill="#7d7d85">Nemesis</text>
+      <text x="54" y="18" font-size="14" font-weight="700" fill="#f48cba">Player 3</text>
+      <text x="54" y="33" font-size="10" fill="#7d7d85">Realm 2</text>
       <text x="340" y="26" text-anchor="middle" font-size="13" fill="#fff">90</text>
       <text x="400" y="26" text-anchor="middle" font-size="13" fill="#fff">625.8</text>
       <g transform="translate(510 26)" text-anchor="end" font-size="13" fill="#fff">
@@ -168,8 +168,8 @@
       <rect x="0" y="4" width="3" height="34" fill="#3fc7eb"/>
       <circle cx="34" cy="21" r="11" fill="#0e2028" stroke="#3fc7eb" stroke-width="2"/>
       <text x="34" y="26" text-anchor="middle" font-size="12" font-weight="700" fill="#3fc7eb">M</text>
-      <text x="54" y="18" font-size="14" font-weight="700" fill="#3fc7eb">Aerith</text>
-      <text x="54" y="33" font-size="10" fill="#7d7d85">Nemesis</text>
+      <text x="54" y="18" font-size="14" font-weight="700" fill="#3fc7eb">Player 4</text>
+      <text x="54" y="33" font-size="10" fill="#7d7d85">Realm 2</text>
       <text x="340" y="26" text-anchor="middle" font-size="13" fill="#fff">88</text>
       <text x="400" y="26" text-anchor="middle" font-size="13" fill="#fff">592.0</text>
       <g transform="translate(510 26)" text-anchor="end" font-size="13" fill="#fff">
