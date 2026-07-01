@@ -1,0 +1,250 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720" font-family="Segoe UI, Verdana, Arial, sans-serif">
+  <defs>
+    <linearGradient id="pageBg2" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%"  stop-color="#0e1220"/>
+      <stop offset="100%" stop-color="#05070d"/>
+    </linearGradient>
+    <linearGradient id="frameBg2" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%"  stop-color="#0d0f14"/>
+      <stop offset="100%" stop-color="#080a10"/>
+    </linearGradient>
+    <linearGradient id="titleBar2" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%"  stop-color="#22222c"/>
+      <stop offset="100%" stop-color="#0f1017"/>
+    </linearGradient>
+    <linearGradient id="activeGlow2" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%"  stop-color="#ffd166" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#ffd166" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="coin2" cx="0.5" cy="0.4" r="0.6">
+      <stop offset="0%"  stop-color="#fff3b8"/>
+      <stop offset="60%" stop-color="#f4c452"/>
+      <stop offset="100%" stop-color="#8a5a10"/>
+    </radialGradient>
+    <radialGradient id="silver2" cx="0.5" cy="0.4" r="0.6">
+      <stop offset="0%"  stop-color="#f5f5f5"/>
+      <stop offset="60%" stop-color="#c8c8cf"/>
+      <stop offset="100%" stop-color="#7a7a80"/>
+    </radialGradient>
+    <radialGradient id="copper2" cx="0.5" cy="0.4" r="0.6">
+      <stop offset="0%"  stop-color="#f7c9a4"/>
+      <stop offset="60%" stop-color="#c46a2c"/>
+      <stop offset="100%" stop-color="#6b3410"/>
+    </radialGradient>
+  </defs>
+
+  <rect x="0" y="0" width="1280" height="720" fill="url(#pageBg2)"/>
+
+  <text x="640" y="52" text-anchor="middle" font-size="30" font-weight="700" fill="#ffd166" letter-spacing="1">Designed to be read at a glance</text>
+
+  <g transform="translate(280 100)">
+    <rect x="0" y="0" width="720" height="440" rx="8" ry="8" fill="url(#frameBg2)" stroke="#7a6220" stroke-width="2"/>
+
+    <rect x="4" y="4" width="712" height="42" fill="url(#titleBar2)"/>
+    <rect x="4" y="45" width="712" height="1.5" fill="#ffd166" opacity="0.85"/>
+    <circle cx="28" cy="25" r="11" fill="url(#coin2)" stroke="#7a5217" stroke-width="1.5"/>
+    <text x="50" y="32" font-size="20" font-weight="700" fill="#ffd166">Alts Ledger</text>
+    <text x="176" y="32" font-size="12" fill="#8a8a8a">4 alts tracked</text>
+
+    <rect x="4" y="50" width="712" height="36" fill="#151720"/>
+    <g font-size="11" font-weight="700" fill="#ffd166" letter-spacing="1">
+      <text x="26"  y="72">CHARACTER</text>
+      <text x="340" y="72" text-anchor="middle">▲ LVL</text>
+      <text x="400" y="72" text-anchor="middle">ILVL</text>
+      <text x="510" y="72" text-anchor="end">GOLD</text>
+      <text x="560" y="72" text-anchor="middle">M+</text>
+      <text x="650" y="72" text-anchor="middle">GREAT VAULT</text>
+    </g>
+    <rect x="18" y="86" width="684" height="1" fill="#ffd166" opacity="0.5"/>
+
+    <g transform="translate(4 92)">
+      <rect x="0" y="0" width="712" height="42" fill="#ffd166" opacity="0.10"/>
+      <rect x="0" y="4" width="3" height="34" fill="#a330c9"/>
+      <rect x="3" y="4" width="14" height="34" fill="url(#activeGlow2)"/>
+      <circle cx="34" cy="21" r="11" fill="#241030" stroke="#a330c9" stroke-width="2"/>
+      <text x="34" y="26" text-anchor="middle" font-size="12" font-weight="700" fill="#a330c9">DH</text>
+      <text x="54" y="18" font-size="14" font-weight="700" fill="#a330c9">Thalerian</text>
+      <text x="132" y="18" font-size="11" font-weight="700" fill="#ffd166">[active]</text>
+      <text x="54" y="33" font-size="10" fill="#7d7d85">Pozzo dell'Eternità</text>
+      <text x="340" y="26" text-anchor="middle" font-size="13" fill="#fff">90</text>
+      <text x="400" y="26" text-anchor="middle" font-size="13" fill="#fff">651.7</text>
+      <g transform="translate(510 26)" text-anchor="end" font-size="13" fill="#fff">
+        <text x="-52">5,055</text>
+        <circle cx="-42" cy="-4" r="6" fill="url(#coin2)"/>
+        <text x="-28">99</text>
+        <circle cx="-18" cy="-4" r="6" fill="url(#silver2)"/>
+        <text x="-4">43</text>
+        <circle cx="6" cy="-4" r="6" fill="url(#copper2)"/>
+      </g>
+      <text x="560" y="26" text-anchor="middle" font-size="13" font-weight="700" fill="#0070dd">2645</text>
+      <g transform="translate(590 22)" font-size="11" font-weight="700">
+        <text x="0"   y="4" fill="#40e040">R</text>
+        <circle cx="14" cy="0" r="3.5" fill="#40e040"/>
+        <circle cx="24" cy="0" r="3.5" fill="#40e040"/>
+        <circle cx="34" cy="0" r="3.5" fill="#40e040"/>
+        <text x="48"  y="4" fill="#ffd100">M</text>
+        <circle cx="62"  cy="0" r="3.5" fill="#ffd100"/>
+        <circle cx="72"  cy="0" r="3.5" fill="#ffd100"/>
+        <circle cx="82"  cy="0" r="3.5" fill="#444"/>
+        <text x="96" y="4" fill="#ffd100">W</text>
+        <circle cx="110" cy="0" r="3.5" fill="#ffd100"/>
+        <circle cx="120" cy="0" r="3.5" fill="#444"/>
+        <circle cx="130" cy="0" r="3.5" fill="#444"/>
+      </g>
+      <rect x="18" y="41" width="684" height="1" fill="#fff" opacity="0.05"/>
+    </g>
+
+    <g transform="translate(4 134)">
+      <rect x="0" y="0" width="712" height="42" fill="#fff" opacity="0.02"/>
+      <rect x="0" y="4" width="3" height="34" fill="#c69b6d"/>
+      <circle cx="34" cy="21" r="11" fill="#1a1310" stroke="#c69b6d" stroke-width="2"/>
+      <text x="34" y="26" text-anchor="middle" font-size="12" font-weight="700" fill="#c69b6d">W</text>
+      <text x="54" y="18" font-size="14" font-weight="700" fill="#c69b6d">Elmryon</text>
+      <text x="54" y="33" font-size="10" fill="#7d7d85">Pozzo dell'Eternità</text>
+      <text x="340" y="26" text-anchor="middle" font-size="13" fill="#fff">90</text>
+      <text x="400" y="26" text-anchor="middle" font-size="13" fill="#fff">638.2</text>
+      <g transform="translate(510 26)" text-anchor="end" font-size="13" fill="#fff">
+        <text x="-52">9,884</text>
+        <circle cx="-42" cy="-4" r="6" fill="url(#coin2)"/>
+        <text x="-28">92</text>
+        <circle cx="-18" cy="-4" r="6" fill="url(#silver2)"/>
+        <text x="-4">06</text>
+        <circle cx="6" cy="-4" r="6" fill="url(#copper2)"/>
+      </g>
+      <text x="560" y="26" text-anchor="middle" font-size="13" font-weight="700" fill="#a335ee">2810</text>
+      <g transform="translate(590 22)" font-size="11" font-weight="700">
+        <text x="0"   y="4" fill="#40e040">R</text>
+        <circle cx="14" cy="0" r="3.5" fill="#40e040"/>
+        <circle cx="24" cy="0" r="3.5" fill="#40e040"/>
+        <circle cx="34" cy="0" r="3.5" fill="#40e040"/>
+        <text x="48"  y="4" fill="#40e040">M</text>
+        <circle cx="62"  cy="0" r="3.5" fill="#40e040"/>
+        <circle cx="72"  cy="0" r="3.5" fill="#40e040"/>
+        <circle cx="82"  cy="0" r="3.5" fill="#40e040"/>
+        <text x="96" y="4" fill="#ffd100">W</text>
+        <circle cx="110" cy="0" r="3.5" fill="#ffd100"/>
+        <circle cx="120" cy="0" r="3.5" fill="#ffd100"/>
+        <circle cx="130" cy="0" r="3.5" fill="#444"/>
+      </g>
+      <rect x="18" y="41" width="684" height="1" fill="#fff" opacity="0.05"/>
+    </g>
+
+    <g transform="translate(4 176)">
+      <rect x="0" y="4" width="3" height="34" fill="#f48cba"/>
+      <circle cx="34" cy="21" r="11" fill="#2a1220" stroke="#f48cba" stroke-width="2"/>
+      <text x="34" y="26" text-anchor="middle" font-size="12" font-weight="700" fill="#f48cba">P</text>
+      <text x="54" y="18" font-size="14" font-weight="700" fill="#f48cba">Karthos</text>
+      <text x="54" y="33" font-size="10" fill="#7d7d85">Nemesis</text>
+      <text x="340" y="26" text-anchor="middle" font-size="13" fill="#fff">90</text>
+      <text x="400" y="26" text-anchor="middle" font-size="13" fill="#fff">625.8</text>
+      <g transform="translate(510 26)" text-anchor="end" font-size="13" fill="#fff">
+        <text x="-52">3,240</text>
+        <circle cx="-42" cy="-4" r="6" fill="url(#coin2)"/>
+        <text x="-28">08</text>
+        <circle cx="-18" cy="-4" r="6" fill="url(#silver2)"/>
+        <text x="-4">72</text>
+        <circle cx="6" cy="-4" r="6" fill="url(#copper2)"/>
+      </g>
+      <text x="560" y="26" text-anchor="middle" font-size="13" font-weight="700" fill="#0070dd">2185</text>
+      <g transform="translate(590 22)" font-size="11" font-weight="700">
+        <text x="0"   y="4" fill="#ffd100">R</text>
+        <circle cx="14" cy="0" r="3.5" fill="#ffd100"/>
+        <circle cx="24" cy="0" r="3.5" fill="#ffd100"/>
+        <circle cx="34" cy="0" r="3.5" fill="#444"/>
+        <text x="48"  y="4" fill="#ffd100">M</text>
+        <circle cx="62"  cy="0" r="3.5" fill="#ffd100"/>
+        <circle cx="72"  cy="0" r="3.5" fill="#ffd100"/>
+        <circle cx="82"  cy="0" r="3.5" fill="#444"/>
+        <text x="96" y="4" fill="#666">W</text>
+        <circle cx="110" cy="0" r="3.5" fill="#444"/>
+        <circle cx="120" cy="0" r="3.5" fill="#444"/>
+        <circle cx="130" cy="0" r="3.5" fill="#444"/>
+      </g>
+      <rect x="18" y="41" width="684" height="1" fill="#fff" opacity="0.05"/>
+    </g>
+
+    <g transform="translate(4 218)">
+      <rect x="0" y="0" width="712" height="42" fill="#fff" opacity="0.02"/>
+      <rect x="0" y="4" width="3" height="34" fill="#3fc7eb"/>
+      <circle cx="34" cy="21" r="11" fill="#0e2028" stroke="#3fc7eb" stroke-width="2"/>
+      <text x="34" y="26" text-anchor="middle" font-size="12" font-weight="700" fill="#3fc7eb">M</text>
+      <text x="54" y="18" font-size="14" font-weight="700" fill="#3fc7eb">Aerith</text>
+      <text x="54" y="33" font-size="10" fill="#7d7d85">Nemesis</text>
+      <text x="340" y="26" text-anchor="middle" font-size="13" fill="#fff">88</text>
+      <text x="400" y="26" text-anchor="middle" font-size="13" fill="#fff">592.0</text>
+      <g transform="translate(510 26)" text-anchor="end" font-size="13" fill="#fff">
+        <text x="-52">   825</text>
+        <circle cx="-42" cy="-4" r="6" fill="url(#coin2)"/>
+        <text x="-28">32</text>
+        <circle cx="-18" cy="-4" r="6" fill="url(#silver2)"/>
+        <text x="-4">05</text>
+        <circle cx="6" cy="-4" r="6" fill="url(#copper2)"/>
+      </g>
+      <text x="560" y="26" text-anchor="middle" font-size="13" fill="#666">–</text>
+      <g transform="translate(590 22)" font-size="11" font-weight="700">
+        <text x="0"   y="4" fill="#666">R</text>
+        <circle cx="14" cy="0" r="3.5" fill="#444"/>
+        <circle cx="24" cy="0" r="3.5" fill="#444"/>
+        <circle cx="34" cy="0" r="3.5" fill="#444"/>
+        <text x="48"  y="4" fill="#666">M</text>
+        <circle cx="62"  cy="0" r="3.5" fill="#444"/>
+        <circle cx="72"  cy="0" r="3.5" fill="#444"/>
+        <circle cx="82"  cy="0" r="3.5" fill="#444"/>
+        <text x="96" y="4" fill="#666">W</text>
+        <circle cx="110" cy="0" r="3.5" fill="#444"/>
+        <circle cx="120" cy="0" r="3.5" fill="#444"/>
+        <circle cx="130" cy="0" r="3.5" fill="#444"/>
+      </g>
+    </g>
+  </g>
+
+  <g font-size="14" fill="#e6e6e6" font-weight="600">
+    <g>
+      <path d="M 250 200 Q 200 200 178 195" stroke="#ffd166" stroke-width="1.5" fill="none"/>
+      <circle cx="178" cy="195" r="4" fill="#ffd166"/>
+      <rect x="30" y="176" width="230" height="52" rx="8" fill="#111318" stroke="#ffd166" stroke-width="1.5"/>
+      <text x="45" y="200" fill="#ffd166" font-weight="700">Active character highlighted</text>
+      <text x="45" y="218" fill="#b0b0b0" font-size="12">Gold accent + [active] badge</text>
+    </g>
+
+    <g>
+      <path d="M 60 320 Q 200 340 305 340" stroke="#ffd166" stroke-width="1.5" fill="none"/>
+      <circle cx="305" cy="340" r="4" fill="#ffd166"/>
+      <rect x="30" y="292" width="215" height="52" rx="8" fill="#111318" stroke="#ffd166" stroke-width="1.5"/>
+      <text x="45" y="316" fill="#ffd166" font-weight="700">Class-colored accent bar</text>
+      <text x="45" y="334" fill="#b0b0b0" font-size="12">Left-edge, instantly readable</text>
+    </g>
+
+    <g>
+      <path d="M 1030 200 Q 1080 200 1085 200" stroke="#ffd166" stroke-width="1.5" fill="none"/>
+      <circle cx="1085" cy="200" r="4" fill="#ffd166"/>
+      <rect x="1030" y="176" width="220" height="52" rx="8" fill="#111318" stroke="#ffd166" stroke-width="1.5"/>
+      <text x="1045" y="200" fill="#ffd166" font-weight="700">Great Vault at a glance</text>
+      <text x="1045" y="218" fill="#b0b0b0" font-size="12">R / M+ / World slot indicators</text>
+    </g>
+
+    <g>
+      <path d="M 1020 340 Q 1080 340 1085 340" stroke="#ffd166" stroke-width="1.5" fill="none"/>
+      <circle cx="1085" cy="340" r="4" fill="#ffd166"/>
+      <rect x="1030" y="292" width="220" height="52" rx="8" fill="#111318" stroke="#ffd166" stroke-width="1.5"/>
+      <text x="1045" y="316" fill="#ffd166" font-weight="700">Mythic+ rating tiered</text>
+      <text x="1045" y="334" fill="#b0b0b0" font-size="12">Colored by KSM/KSH/portal tier</text>
+    </g>
+
+    <g>
+      <path d="M 780 275 Q 820 470 850 610" stroke="#ffd166" stroke-width="1.5" fill="none"/>
+      <circle cx="850" cy="610" r="4" fill="#ffd166"/>
+      <rect x="700" y="588" width="250" height="52" rx="8" fill="#111318" stroke="#ffd166" stroke-width="1.5"/>
+      <text x="715" y="612" fill="#ffd166" font-weight="700">Native coin icons</text>
+      <text x="715" y="630" fill="#b0b0b0" font-size="12">Blizzard g/s/c textures inline</text>
+    </g>
+
+    <g>
+      <path d="M 490 275 Q 460 470 430 610" stroke="#ffd166" stroke-width="1.5" fill="none"/>
+      <circle cx="430" cy="610" r="4" fill="#ffd166"/>
+      <rect x="290" y="588" width="220" height="52" rx="8" fill="#111318" stroke="#ffd166" stroke-width="1.5"/>
+      <text x="305" y="612" fill="#ffd166" font-weight="700">Sortable columns</text>
+      <text x="305" y="630" fill="#b0b0b0" font-size="12">Click header to sort by any field</text>
+    </g>
+  </g>
+</svg>
